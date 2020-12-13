@@ -30,7 +30,7 @@ _THEN I am presented with a responsive layout that adapts to my viewport_
 
 ## Screenshot
 
-![portfolio-screenshor](./assets/images/portfolio-screenshot.png "")
+![portfolio-screenshor](./assets/images/portfolio-screenshot2.png)
 
 ## Link to deployed webpage
 
