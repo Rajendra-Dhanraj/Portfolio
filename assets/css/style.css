@@ -133,7 +133,7 @@ header nav ul li a:hover {
 .grid-item {
   display: flex;
   min-height: 150px;
-  background-color: white;
+  
   color: white;
   padding: 5px;
   margin: 10px;
@@ -141,7 +141,7 @@ header nav ul li a:hover {
   align-items: flex-end;
   padding: 0 0 20px 0;
   text-decoration: none;
-  background-blend-mode: difference;
+  background-blend-mode: soft-light;
   background-size: 150%;
   transition: all 0.5s;
   grid-column: span 4;
@@ -203,7 +203,7 @@ h2 {
 
 .contact-info-container img:hover {
   font-size: 20px;
-  background-color: grey;
+  background-color:grey;
   color: white;
 }
 
@@ -217,4 +217,12 @@ h2 {
 
 .paragraph-container img {
   align-items: center;
+}
+
+.run-buddy {
+    background-image: url("../images/run-buddy.png")
+}
+
+.horiseon {
+    background-image: url("../images/horiseon.png")
 }
