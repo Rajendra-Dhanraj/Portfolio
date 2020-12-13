@@ -234,6 +234,7 @@ h2 {
 
 .paragraph-container img {
   align-items: center;
+  border-radius: 50%;
 }
 
 /* Grid item images */
@@ -277,7 +278,7 @@ footer {
     width: 100%;
     padding: 5px;
     margin-bottom: 10px;
-    font-size: 10vw;
+    font-size: 11vw;
   }
 
   header nav {
@@ -295,7 +296,7 @@ footer {
     margin-bottom: 20px;
     padding-bottom: 10px;
     text-align: left;
-    font-size: 7vw;
+    font-size: 9vw;
   }
 }
 
