@@ -9,7 +9,7 @@
 
 ## Purpose
 
-Build a web page that highlights HTML and CSS topics learnt in the current module such as: flex bos, grid, media queries.
+Build a web page that highlights HTML and CSS topics learnt in the current module such as: flex box, grid, media queries.
 
 ## Requirements
 
