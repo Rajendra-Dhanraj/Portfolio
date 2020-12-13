@@ -22,6 +22,7 @@ header {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
+  opacity: .75;
 }
 
 header h1 {
@@ -198,12 +199,6 @@ h2 {
 .contact-info-container a:hover {
   font-size: 20px;
   background-color: grey;
-  color: white;
-}
-
-.contact-info-container img:hover {
-  font-size: 20px;
-  background-color:grey;
   color: white;
 }
 
